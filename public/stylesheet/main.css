@@ -1,0 +1,19 @@
+.thumbnail .img-responsive {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+.deleteForm{
+	display:inline;
+}
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
